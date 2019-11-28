@@ -1,1 +1,3 @@
 # chongdaebot
+
+chongdaebot jjang jjang
